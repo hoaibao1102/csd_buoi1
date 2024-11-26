@@ -8,5 +8,7 @@ public class Hoctap {
         int c;
         c = a+b;
         System.out.println("tong cua a va b la: "+c);
+
+        System.out.println("hehe da duoc roi");
     }
 }
